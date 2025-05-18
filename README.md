@@ -37,14 +37,18 @@ KADSI est un projet d’application mobile visant à proposer un *préavis derma
 - VLM-GRPO (libraire pour implémenter la méthode d'entrainement de deepseek à des modèles de visions (codé par nos soins))
 
 ---
+## Entrainement
 
-## 🔬 Données et Entraînement
+- Ci-dessous les logs d'entrainement pour la partie reinforcement learning
 
-- *Dataset principal* : Fitzpatrick17k (annoté par phototype I à VI)
-- *Objectif du modèle* : Donner un conseil dermatologique
-- *Fine-tuning* : Scripts disponibles avec les logs 
+![Evolution du reward en fonction des steps](C:\Users\GAD\Documents\KADIS\KADSI\images\reward.png)
 
----
+![Evolution de la loss en fonction des steps](C:\Users\GAD\Documents\KADIS\KADSI\images\loss.png)
+
+NB : Il est tout à fait normal d’avoir une loss à 0 au début de l'entraînement. Cela est
+dû à la manière dont la méthode Grpo de reinforcement learning est implémenté (il
+dépend de la divergence du modèle entraîné par rapport au modèle de référence, or au
+début, le modèle de référence est strictement égal au modèle entraîné).
 
 
 
