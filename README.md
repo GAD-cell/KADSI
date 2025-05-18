@@ -41,9 +41,8 @@ KADSI est un projet d’application mobile visant à proposer un *préavis derma
 
 - Ci-dessous les logs d'entrainement pour la partie reinforcement learning
 
-![Evolution du reward en fonction des steps](C:\Users\GAD\Documents\KADIS\KADSI\images\reward.png)
-
-![Evolution de la loss en fonction des steps](C:\Users\GAD\Documents\KADIS\KADSI\images\loss.png)
+![Evolution du reward en fonction des steps](./images/reward.png)
+![Evolution de la loss en fonction des steps](./images/loss.png)
 
 NB : Il est tout à fait normal d’avoir une loss à 0 au début de l'entraînement. Cela est
 dû à la manière dont la méthode Grpo de reinforcement learning est implémenté (il
