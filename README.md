@@ -9,10 +9,10 @@ KADSI est un projet d’application mobile visant à proposer un *préavis derma
 | Dossier/Fichier             | Description |
 |----------------------------|-------------|
 | rapport_KADSI.pdf        | Rapport complet du projet, enjeux, méthode, résultats |
-| vlm_grpo-main            | Scripts et modèle de base VLM-GRPO utilisés pour le prototype |
+| vlm_grpo-main            | Scripts implémentant la méthode Grpo d'entrainement |
 | build1_app.apk           | Premier prototype de l'application mobile KADSI |
 | Fitzpatrick17.csv        | Dataset utilisé, contenant les métadonnées des images du Fitzpatrick17k |
-
+|qwen_training-Copy1 (1).ipynb| Code pour entrainer le modèle
 ---
 
 ## 🔗 Présentation du projet
