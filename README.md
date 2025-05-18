@@ -52,6 +52,6 @@ KADSI est un projet d’application mobile visant à proposer un *préavis derma
 
 - Kessel DIAROUMEYE 
 - Sinoué GAD
-- Ahmed Izem
+- Ahmed IZI
 
 ---
