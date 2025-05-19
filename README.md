@@ -1,6 +1,6 @@
 # 🌿 KADSI – Application de préavis dermatologique assistée par IA
 
-KADSI est un projet d’application mobile visant à proposer un *préavis dermatologique*, grâce à un modèle de vision et langage multimodal (VLM-GRPO), à partir d’une simple photo de lésion cutanée. L'application permet d'informer l'utilisateur s’il est pertinent de consulter un professionnel de santé, *sans diagnostic ni enregistrement d'image*, garantissant ainsi éthique et confidentialité.
+KADSI est un projet d’application mobile visant à proposer un *préavis dermatologique*, grâce à un VLM à partir d’une simple photo de lésion cutanée. L'application permet d'informer l'utilisateur s’il est pertinent de consulter un professionnel de santé, *sans diagnostic ni enregistrement d'image*, garantissant ainsi éthique et confidentialité.
 
 ---
 
